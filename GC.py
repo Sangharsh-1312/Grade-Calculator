@@ -1,23 +1,3 @@
-# age = int(input("Enter your age: "))
-
-# if age > 18:
-#     print("You can vote.")
-
-# elif age == 18:
-#     print("Congrates, You are now eligible to vote.")
-
-# else:
-#     print("Sorry,you can not vote yet.")
-
-# eo = int(input("Enter any number: "))
-
-# if eo % 2 == 0:
-#     print("The number is the Even number.")
-
-# else:
-#     print("the number is the Odd nummber.")
-
-
 # GRADE CALCULATOR  
 
 m = int(input("Enter your marks: "))
