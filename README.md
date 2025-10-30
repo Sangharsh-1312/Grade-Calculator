@@ -10,6 +10,9 @@ This is a simple Python program that calculates grades based on marks entered by
 
 ## 📊 Example
 
+Enter your marks: 74
+Your grade is C.
+
 ## 💡 Features
 - Calculates grades based on marks.
 - Easy to use and beginner friendly.
